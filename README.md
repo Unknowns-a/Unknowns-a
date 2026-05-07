@@ -8,6 +8,12 @@ I'm a **Future Systems Developer** with a passion for Python, Data Analysis, and
 - 📫 How to reach me: adriansparrapan@gmail.com
 - ⚡ Fun fact: I'm currently being assisted by Jarvis to make my GitHub more dynamic!
 
+#### 🚀 Weekly Progress (AI & Tech)
+*Last updated: 07/05/2026*
+- **Focus:** Automação de perfil e Portfólio interativo.
+- **Aprendizado:** Explorando GitHub Actions integradas com IA para resumos dinâmicos.
+- **Atividade:** Iniciou a construção de uma Landing Page moderna com tech stack de ponta.
+
 #### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
